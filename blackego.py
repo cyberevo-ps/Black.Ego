@@ -1,6 +1,7 @@
 import os
 os.system("clear")
-os.system("mkdir BLACK_EGO && mv BLACK_EGO /sdcard")
+os.system("mkdir BLACK_EGO")
+os.system("mv BLACK_EGO /sdcard")
 os.system("clear")
 print ( """\033[1;31m
          .'.:Oo..                                    ..oO:.'.

